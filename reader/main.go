@@ -4,8 +4,8 @@ import (
 	"C"
 	"encoding/hex"
 	"fmt"
+	"github.com/fuzxxl/freefare/dev/freefare"
 	"github.com/fuzxxl/nfc/2.0/nfc"
-	"github.com/graynk/freefare/0.3-diversify/freefare"
 	"log"
 	"os"
 )

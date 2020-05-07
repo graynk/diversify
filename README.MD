@@ -10,7 +10,7 @@ Reader takes master key and reads the whole card with derived key.
 This works only for Mifare Ultralight C tags.
 
 ## Dependencies
-I use my [fork](https://github.com/graynk/freefare) of [fuzxxl/freefare](https://github.com/fuzxxl/freefare) 
+I use [dev](https://github.com/fuzxxl/freefare/tree/master/dev/freefare) branch of [fuzxxl/freefare](https://github.com/fuzxxl/freefare) 
 that supports key diversification and has some ad-hoc fixes to work with latest
  version of [libfreefare](https://github.com/nfc-tools/libfreefare) (as well as some minor bug fixes).
  
