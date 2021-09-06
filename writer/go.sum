@@ -1,0 +1,4 @@
+github.com/clausecker/freefare v0.4.0 h1:bTwqOkNbMEcYFb+FapmRReD3Y6nY3WB3uUOJp07uRTg=
+github.com/clausecker/freefare v0.4.0/go.mod h1:miWcMN6IVCqXmjHvGdgPnnd6ect/JwXqXXpAfhk6oR0=
+github.com/clausecker/nfc/v2 v2.1.4 h1:zw2Cnny7pxPnuxVMBo+DXqXYETzUN7pMhNEA61yT5gY=
+github.com/clausecker/nfc/v2 v2.1.4/go.mod h1:BjRBQUQTQmiwh2tEfQ+xBM5xY05sV2gnZ0JRYEHog/o=

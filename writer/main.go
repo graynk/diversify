@@ -3,8 +3,8 @@ package main
 import (
 	"encoding/hex"
 	"fmt"
-	"github.com/fuzxxl/freefare/dev/freefare"
-	"github.com/fuzxxl/nfc/2.0/nfc"
+	"github.com/clausecker/freefare"
+	"github.com/clausecker/nfc/v2"
 	"log"
 	"os"
 )
